@@ -32,7 +32,7 @@ void main() {
           ],
           supportedLocales: const <Locale>[
             Locale('en', ''),
-            Locale('tr', '+90'),
+            Locale('tr', '+80'),
           ],
           title: 'Orderpos',
           debugShowCheckedModeBanner: false,
